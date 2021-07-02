@@ -1,3 +1,10 @@
 # yandex-praktikum / how-to-learn
 
-<img src="">
+проектная работа 1-го спринта на курсе "Веб-разработчик плюс"
+
+cписок технологий:  
+<ul>
+  <li>БЭМ</li>
+  <li>html</li>
+  <li>css</li>
+</ul>
