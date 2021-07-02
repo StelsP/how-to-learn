@@ -1,4 +1,4 @@
-<img src="./images/readme_footer_image.png">
+
 
 # yandex-praktikum / how-to-learn
 
