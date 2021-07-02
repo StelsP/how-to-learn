@@ -12,6 +12,10 @@
 
   color: #2F80ED;
   text-decoration: none;
+
+  z-index: 1;
+
+  transition: opacity .3s linear;
 }
 .feynman__link:hover {
   opacity: .5;

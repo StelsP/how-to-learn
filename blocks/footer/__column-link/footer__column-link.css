@@ -12,6 +12,8 @@
   color: white;
 
   text-decoration: none;
+
+  transition: opacity .3s linear;
 }
 
 .footer__column-link:hover {

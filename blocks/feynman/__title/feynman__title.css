@@ -9,4 +9,7 @@
   line-height: 1.15;
   letter-spacing: 0em;
   text-align: center;
+
+  position: relative;
+  z-index: 1;
 }
