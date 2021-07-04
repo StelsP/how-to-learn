@@ -8,8 +8,6 @@
   line-height: 1.2;
   letter-spacing: 0em;
   text-align: left;
-}
 
-.table__text:last-child {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
