@@ -6,16 +6,8 @@
   top: 0;
   right: -210px;
 
-  background-image: url(../__triangle/kaufman__triangle.svg);
+  background-image: url(../../../images/kaufman-triangle.svg);
   background-repeat: no-repeat;
 
-
   z-index: 0;
-  ;
-
-
-
-
-
-
 }
